@@ -47,7 +47,8 @@
 		"items": [
 			"Personaje",
 			"Sprite4",
-			"Teclado"
+			"Teclado",
+			"Sprite"
 		],
 		"subfolders": []
 	},

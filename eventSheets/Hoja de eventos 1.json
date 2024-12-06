@@ -91,6 +91,31 @@
 				}
 			],
 			"sid": 746994775967491
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-collision-with-another-object",
+					"objectClass": "Personaje",
+					"sid": 908067037628888,
+					"parameters": {
+						"object": "Sprite"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-position",
+					"objectClass": "Personaje",
+					"sid": 413944786716641,
+					"parameters": {
+						"x": "209",
+						"y": "394"
+					}
+				}
+			],
+			"sid": 621419217510158
 		}
 	],
 	"sid": 852041745274652
